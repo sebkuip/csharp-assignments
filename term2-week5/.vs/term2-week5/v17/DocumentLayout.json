@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sebas\\source\\repos\\term2-week5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6148E8E6-2ABE-4E7E-A359-F504F03CB5CA}|assignment4\\assignment4.csproj|c:\\users\\sebas\\source\\repos\\term2-week5\\assignment4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6148E8E6-2ABE-4E7E-A359-F504F03CB5CA}|assignment4\\assignment4.csproj|solutionrelative:assignment4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6148E8E6-2ABE-4E7E-A359-F504F03CB5CA}|assignment4\\assignment4.csproj|c:\\users\\sebas\\source\\repos\\term2-week5\\assignment4\\lingogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6148E8E6-2ABE-4E7E-A359-F504F03CB5CA}|assignment4\\assignment4.csproj|solutionrelative:assignment4\\lingogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4D9E6B-CC36-460A-91A0-452C797B1A26}|assignment3\\assignment3.csproj|c:\\users\\sebas\\source\\repos\\term2-week5\\assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4D9E6B-CC36-460A-91A0-452C797B1A26}|assignment3\\assignment3.csproj|solutionrelative:assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5764CB10-7C95-4C04-A993-90C396D2207A}|MyTools\\MyTools.csproj|c:\\users\\sebas\\source\\repos\\term2-week5\\mytools\\readtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5764CB10-7C95-4C04-A993-90C396D2207A}|MyTools\\MyTools.csproj|solutionrelative:mytools\\readtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A95A01F-B080-4BDF-BE89-42C6BE523822}|assignment2\\assignment2.csproj|c:\\users\\sebas\\source\\repos\\term2-week5\\assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A95A01F-B080-4BDF-BE89-42C6BE523822}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400A6F05-7279-4370-8370-0C6CEF871AC9}|CandyCrushLogic\\CandyCrushLogic.csproj|c:\\users\\sebas\\source\\repos\\term2-week5\\candycrushlogic\\candycrusher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400A6F05-7279-4370-8370-0C6CEF871AC9}|CandyCrushLogic\\CandyCrushLogic.csproj|solutionrelative:candycrushlogic\\candycrusher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400A6F05-7279-4370-8370-0C6CEF871AC9}|CandyCrushLogic\\CandyCrushLogic.csproj|c:\\users\\sebas\\source\\repos\\term2-week5\\candycrushlogic\\regularcandies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400A6F05-7279-4370-8370-0C6CEF871AC9}|CandyCrushLogic\\CandyCrushLogic.csproj|solutionrelative:candycrushlogic\\regularcandies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LingoGame.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\source\\repos\\term2-week5\\assignment4\\LingoGame.cs",
+              "RelativeDocumentMoniker": "assignment4\\LingoGame.cs",
+              "ToolTip": "C:\\Users\\Sebas\\source\\repos\\term2-week5\\assignment4\\LingoGame.cs",
+              "RelativeToolTip": "assignment4\\LingoGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:38:46.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadTools.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\source\\repos\\term2-week5\\MyTools\\ReadTools.cs",
+              "RelativeDocumentMoniker": "MyTools\\ReadTools.cs",
+              "ToolTip": "C:\\Users\\Sebas\\source\\repos\\term2-week5\\MyTools\\ReadTools.cs",
+              "RelativeToolTip": "MyTools\\ReadTools.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:38:15.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\source\\repos\\term2-week5\\assignment4\\Program.cs",
+              "RelativeDocumentMoniker": "assignment4\\Program.cs",
+              "ToolTip": "C:\\Users\\Sebas\\source\\repos\\term2-week5\\assignment4\\Program.cs",
+              "RelativeToolTip": "assignment4\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIA9wBgAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:35:53.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\source\\repos\\term2-week5\\assignment3\\Program.cs",
+              "RelativeDocumentMoniker": "assignment3\\Program.cs",
+              "ToolTip": "C:\\Users\\Sebas\\source\\repos\\term2-week5\\assignment3\\Program.cs",
+              "RelativeToolTip": "assignment3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:52:38.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegularCandies.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\source\\repos\\term2-week5\\CandyCrushLogic\\RegularCandies.cs",
+              "RelativeDocumentMoniker": "CandyCrushLogic\\RegularCandies.cs",
+              "ToolTip": "C:\\Users\\Sebas\\source\\repos\\term2-week5\\CandyCrushLogic\\RegularCandies.cs",
+              "RelativeToolTip": "CandyCrushLogic\\RegularCandies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:36:40.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\source\\repos\\term2-week5\\assignment2\\Program.cs",
+              "RelativeDocumentMoniker": "assignment2\\Program.cs",
+              "ToolTip": "C:\\Users\\Sebas\\source\\repos\\term2-week5\\assignment2\\Program.cs",
+              "RelativeToolTip": "assignment2\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:35:48.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CandyCrusher.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\source\\repos\\term2-week5\\CandyCrushLogic\\CandyCrusher.cs",
+              "RelativeDocumentMoniker": "CandyCrushLogic\\CandyCrusher.cs",
+              "ToolTip": "C:\\Users\\Sebas\\source\\repos\\term2-week5\\CandyCrushLogic\\CandyCrusher.cs",
+              "RelativeToolTip": "CandyCrushLogic\\CandyCrusher.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wB4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:34:14.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
