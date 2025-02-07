@@ -1,0 +1,4 @@
+C:\Users\Sebas\source\repos\term3-week2\assignment3\obj\Debug\net6.0\assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebas\source\repos\term3-week2\assignment3\obj\Debug\net6.0\assignment3.AssemblyInfoInputs.cache
+C:\Users\Sebas\source\repos\term3-week2\assignment3\obj\Debug\net6.0\assignment3.AssemblyInfo.cs
+C:\Users\Sebas\source\repos\term3-week2\assignment3\obj\Debug\net6.0\assignment3.csproj.CoreCompileInputs.cache

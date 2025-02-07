@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31A17B8D-35AB-42C8-A1EE-9D04163893B3}|ReservationSystemService\\ReservationSystemService.csproj|c:\\users\\sebas\\source\\repos\\term3-week4\\reservationsystemservice\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A17B8D-35AB-42C8-A1EE-9D04163893B3}|ReservationSystemService\\ReservationSystemService.csproj|solutionrelative:reservationsystemservice\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A17B8D-35AB-42C8-A1EE-9D04163893B3}|ReservationSystemService\\ReservationSystemService.csproj|c:\\users\\sebas\\source\\repos\\term3-week4\\reservationsystemservice\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A17B8D-35AB-42C8-A1EE-9D04163893B3}|ReservationSystemService\\ReservationSystemService.csproj|solutionrelative:reservationsystemservice\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16DA934A-D66D-4626-ADED-867AFE1A802F}|assignment2\\assignment2.csproj|c:\\users\\sebas\\source\\repos\\term3-week4\\assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16DA934A-D66D-4626-ADED-867AFE1A802F}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0962A7EC-497D-40F6-9F7D-F063C0276CDC}|DAL\\DAL.csproj|c:\\users\\sebas\\source\\repos\\term3-week4\\dal\\bookdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0962A7EC-497D-40F6-9F7D-F063C0276CDC}|DAL\\DAL.csproj|solutionrelative:dal\\bookdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52AC4DE-14FD-4840-8828-618F12342B03}|assignment1\\assignment1.csproj|c:\\users\\sebas\\source\\repos\\term3-week4\\assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52AC4DE-14FD-4840-8828-618F12342B03}|assignment1\\assignment1.csproj|solutionrelative:assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E8282-3DAD-4B9F-BF43-20D9640AD721}|Model\\Model.csproj|c:\\users\\sebas\\source\\repos\\term3-week4\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582E8282-3DAD-4B9F-BF43-20D9640AD721}|Model\\Model.csproj|solutionrelative:model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0962A7EC-497D-40F6-9F7D-F063C0276CDC}|DAL\\DAL.csproj|c:\\users\\sebas\\source\\repos\\term3-week4\\dal\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0962A7EC-497D-40F6-9F7D-F063C0276CDC}|DAL\\DAL.csproj|solutionrelative:dal\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0962A7EC-497D-40F6-9F7D-F063C0276CDC}|DAL\\DAL.csproj|c:\\users\\sebas\\source\\repos\\term3-week4\\dal\\basedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0962A7EC-497D-40F6-9F7D-F063C0276CDC}|DAL\\DAL.csproj|solutionrelative:dal\\basedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16DA934A-D66D-4626-ADED-867AFE1A802F}|assignment2\\assignment2.csproj|c:\\users\\sebas\\source\\repos\\term3-week4\\assignment2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{16DA934A-D66D-4626-ADED-867AFE1A802F}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E8282-3DAD-4B9F-BF43-20D9640AD721}|Model\\Model.csproj|c:\\users\\sebas\\source\\repos\\term3-week4\\model\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582E8282-3DAD-4B9F-BF43-20D9640AD721}|Model\\Model.csproj|solutionrelative:model\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E8282-3DAD-4B9F-BF43-20D9640AD721}|Model\\Model.csproj|c:\\users\\sebas\\source\\repos\\term3-week4\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582E8282-3DAD-4B9F-BF43-20D9640AD721}|Model\\Model.csproj|solutionrelative:model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\ReservationSystemService\\BookService.cs",
+              "RelativeDocumentMoniker": "ReservationSystemService\\BookService.cs",
+              "ToolTip": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\ReservationSystemService\\BookService.cs",
+              "RelativeToolTip": "ReservationSystemService\\BookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:49:20.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\ReservationSystemService\\CustomerService.cs",
+              "RelativeDocumentMoniker": "ReservationSystemService\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\ReservationSystemService\\CustomerService.cs",
+              "RelativeToolTip": "ReservationSystemService\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:43:07.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookDao.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\DAL\\BookDao.cs",
+              "RelativeDocumentMoniker": "DAL\\BookDao.cs",
+              "ToolTip": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\DAL\\BookDao.cs",
+              "RelativeToolTip": "DAL\\BookDao.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:31:40.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerDao.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\DAL\\CustomerDao.cs",
+              "RelativeDocumentMoniker": "DAL\\CustomerDao.cs",
+              "ToolTip": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\DAL\\CustomerDao.cs",
+              "RelativeToolTip": "DAL\\CustomerDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:44:35.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\assignment2\\App.config",
+              "RelativeDocumentMoniker": "assignment2\\App.config",
+              "ToolTip": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\assignment2\\App.config",
+              "RelativeToolTip": "assignment2\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-12T17:28:06.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\assignment2\\Program.cs",
+              "RelativeDocumentMoniker": "assignment2\\Program.cs",
+              "ToolTip": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\assignment2\\Program.cs",
+              "RelativeToolTip": "assignment2\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:27:39.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseDao.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\DAL\\BaseDao.cs",
+              "RelativeDocumentMoniker": "DAL\\BaseDao.cs",
+              "ToolTip": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\DAL\\BaseDao.cs",
+              "RelativeToolTip": "DAL\\BaseDao.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAvwIIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:27:28.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\assignment1\\Program.cs",
+              "RelativeDocumentMoniker": "assignment1\\Program.cs",
+              "ToolTip": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\assignment1\\Program.cs",
+              "RelativeToolTip": "assignment1\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwB8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:06:45.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\Model\\Reservation.cs",
+              "RelativeDocumentMoniker": "Model\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\Model\\Reservation.cs",
+              "RelativeToolTip": "Model\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:20:45.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\Model\\Customer.cs",
+              "RelativeToolTip": "Model\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:19:34.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "Model\\Book.cs",
+              "ToolTip": "C:\\Users\\Sebas\\source\\repos\\term3-week4\\Model\\Book.cs",
+              "RelativeToolTip": "Model\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:13:33.615Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
